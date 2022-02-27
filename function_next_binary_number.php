@@ -18,3 +18,4 @@ function next_binary_number(array $binary_arr) : array {
 print_r(next_binary_number([1,0,0,0,0,0,0,0,0,1]));
 
 //1,0,0,0,0,0,0,0,1,0
+//test
